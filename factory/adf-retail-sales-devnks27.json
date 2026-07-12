@@ -1,0 +1,15 @@
+{
+	"name": "adf-retail-sales-devnks27",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "524b7066-1782-495e-b5ed-77ce00ea8354",
+		"tenantId": "7f91224c-99c3-4ee1-865f-5cda29f18805"
+	}
+}
