@@ -1,0 +1,7 @@
+{
+	"name": "SHIR-RetailSales",
+	"properties": {
+		"type": "SelfHosted",
+		"description": "Local machine runtime"
+	}
+}
